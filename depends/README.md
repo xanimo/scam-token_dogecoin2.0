@@ -128,6 +128,7 @@ options will be passed to bitcoin's configure. In this case, `--disable-wallet`.
 
 ### Additional targets
 
+
     download: run 'make download' to fetch all sources without building them
     download-osx: run 'make download-osx' to fetch all sources needed for macOS builds
     download-win: run 'make download-win' to fetch all sources needed for win builds
