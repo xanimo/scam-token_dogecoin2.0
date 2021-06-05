@@ -3,9 +3,9 @@ Dogecoin2
 
 Setup
 ---------------------
-Dogecoin2 is experimental Dogecoin2 client and it builds the backbone of the network. However, it downloads and stores the entire history of Dogecoin2 transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+Dogecoin2 is an experimental client and it builds the backbone of the network. However, it downloads and stores the entire history of Dogecoin2 transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Dogecoin2, visit [dogecoin2more.org](https://dogecoin2more.org).
+To download Dogecoin2, visit [Dogecoin2.org](https://www.Dogecoin2.org).
 
 Running
 ---------------------
@@ -30,10 +30,7 @@ Drag Dogecoin2-More to your applications folder, and then run Dogecoin2-More.
 
 * See the documentation at the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 for help and more information.
-* Ask for help on [#dogecoin2](http://webchat.freenode.net?channels=dogecoin2) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=dogecoin2).
-* Ask for help in [Dogecoin2 room](https://gitter.im/Dogecoin2_Hub) on Gitter.
-* Ask for help in [/r/dogecoin2/](https://nm.reddit.com/r/dogecoin2/) on Reddit.
-* Ask for help on the [BitcoinTalk](https://bitcointalk.org/) forums, in the [Dogecoin2 topic](https://bitcointalk.org/index.php?topic=3017838.new#new).
+* Ask for help on our discord @ [#dogecoin2](https://discord.gg/doge2)
 
 Building
 ---------------------
@@ -64,9 +61,7 @@ The Dogecoin2 repo's [root README](/README.md) contains relevant information on 
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/) forums, in the [Dogecoin2 topic](https://bitcointalk.org/index.php?topic=3017838.new#new).
-* Discuss Dogecoin2 development in [Dogecoin2 room](https://gitter.im/Dogecoin2_Hub) on Gitter.
-* Discuss Dogecoin2 development in [Dogecoin2 team](https://keybase.io/team/dogecoin2) on Keybase.
+* Discuss on the [BitcoinTalk](https://bitcointalk.org/)
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
