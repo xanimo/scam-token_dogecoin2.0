@@ -2,9 +2,8 @@
 
 <p align="center"> [-Dogecoin <img src=https://secureservercdn.net/192.169.223.13/508.3aa.myftpupload.com/wp-content/uploads/2021/05/ezgif-2-c3de0b290031.gif> 2.0-]</p>
 
-Dogecoin 2.0 is a cryptocurrency like Dogecoin, it does not use scrypt as pow as Dogecoin does.
-Taking development cues from Tenebrix and Litecoin,
-Dogecoin 2.0 currently employs a simplified variant of poa.
+Dogecoin 2.0 is a cryptocurrency like Dogecoin 
+Dogecoin 2.0 currently uses both POS+POW.
 <p align="center"> **Website:** (https://Dogecoin2.org)
 
 ## License – Much license ⚖️
@@ -58,9 +57,7 @@ approximately 100,000,000 coins in circulation forever.
 
 ### Such mining information ⛏
 
-Dogecoin 2.0 uses a new version of crypto mining that is green. Proof of Authority
-  is a simple concept that works similar to proof of stake, but with a single individual 
-  validation.
+Dogecoin 2.0 uses a both POS+POW scrypt algorythim 
 
 
 **The current block reward schedule:**
