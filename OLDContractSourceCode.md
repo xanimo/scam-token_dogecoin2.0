@@ -1,3 +1,4 @@
+#!Used for ERC/BEP token - Do Not Use
 /**
  *Submitted for verification at BscScan.com on 2021-04-25
 */
