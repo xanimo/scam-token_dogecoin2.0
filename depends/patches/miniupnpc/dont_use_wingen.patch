@@ -24,5 +24,3 @@ index 574720e..fcc17bb 100644
  	wingenminiupnpcstrings $< $@
 
  minixml.o:	minixml.c minixml.h
-
-#!Non-dependent
