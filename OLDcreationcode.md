@@ -1,3 +1,4 @@
+#!Used for ERC/BEP token - Do Not Use
 #
 #  Panoramix v4 Oct 2019 
 #  Decompiled source of bsc:0x3780E00D4c60887AF38345cCd44f7617dBFB10A0
