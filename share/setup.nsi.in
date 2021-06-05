@@ -25,6 +25,7 @@ SetCompressor /SOLID lzma
 !define MUI_UNWELCOMEFINISHPAGE_BITMAP "@abs_top_srcdir@/share/pixmaps/nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
 
+
 # Included files
 !include Sections.nsh
 !include MUI2.nsh
