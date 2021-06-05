@@ -27,6 +27,7 @@ install a keylogger to get the passphrase that protects them.
 Threat Mitigation
 --
 
+
 "Air gapping" the machine used to do the signing will not work, because the signing
 process needs to access a timestamp server over the network. And it would not
 prevent the "rubber hose cryptography" threat (coercing Gavin to sign a bad binary
