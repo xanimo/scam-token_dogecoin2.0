@@ -16,6 +16,7 @@ To contribute a patch, the workflow is as follows:
   - Fork repository
   - Create topic branch
   - Commit patches
+  
 
 The project coding conventions in the [developer notes](doc/developer-notes.md) must be adhered to.
 
