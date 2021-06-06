@@ -1,10 +1,10 @@
 <p align="center"># Dogecoin 2.0 Core [DOGE2, Ð2]
 
-<p align="center"> [-Dogecoin <img src=https://secureservercdn.net/192.169.223.13/508.3aa.myftpupload.com/wp-content/uploads/2021/05/ezgif-2-c3de0b290031.gif> 2.0-]</p>
+<p align="center"><img src=https://secureservercdn.net/192.169.223.13/508.3aa.myftpupload.com/wp-content/uploads/2021/05/ezgif-2-c3de0b290031.gif></p>
 
-Dogecoin 2.0 is a cryptocurrency like Dogecoin 
-Dogecoin 2.0 currently uses both POS+POW.
-<p align="center"> **Website:** (https://Dogecoin2.org)
+<p align="center">Dogecoin 2.0 is a cryptocurrency like Dogecoin - 
+Dogecoin 2.0 currently uses both POS+POW.</p>
+<p align="center"> **Website:** (https://Dogecoin2.org)</p>
 
 ## License – Much license ⚖️
 Dogecoin 2.0 Core is released under the terms of the MIT license. See
