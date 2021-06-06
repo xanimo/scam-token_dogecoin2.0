@@ -16,7 +16,12 @@ Development is ongoing, and the development team, as well as other volunteers,
 can freely work in their own trees and submit pull requests when features or
 bug fixes are ready.
 
-#### Version strategy
+
+## Dogecoin 2.0 white paper
+
+[White Paper](https://secureservercdn.net/192.169.223.13/508.3aa.myftpupload.com/wp-content/uploads/2021/05/Whitepater-of-Dogecoin-2_0.pdf)
+
+### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
 
 #### Branches
@@ -49,10 +54,11 @@ not straightforward.
 
 ## Very Much Frequently Asked Questions ❓
 
-### How much doge 2.0 can exist? – So many puppies! 🐕
-Unlike Dogecoin's inflationary supply, Dogecoin 2.0 works as deflationary with
-approximately 100,000,000 coins in circulation forever.
+[Dogecoin 2.0 Press Releases](https://www.dogecoin2.org/press/)
 
+## How much doge 2.0 can exist? – So many puppies! 🐕
+Unlike Dogecoin's inflationary supply, Dogecoin 2.0 works as deflationary with
+approximately 100,000,000 coins in circulation forever. No more coins will be made, ever.
 
 
 ### Such mining information ⛏
