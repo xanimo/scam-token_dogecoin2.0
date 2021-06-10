@@ -40,7 +40,7 @@ Common `host-platform-triplets` for cross compilation are:
 
 The paths are automatically configured and no other options are needed unless targeting [Android](#Android).
 
-### Install the required dependencies: Ubuntu & Debian
+### Install the required dependencies: Ubuntu & Debian - (Check Versions)
 
 #### For macOS cross compilation
 
