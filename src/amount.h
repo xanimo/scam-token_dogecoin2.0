@@ -1,7 +1,9 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2015 The Bitcoin Core developers
+//Copyright (c) 2021 Dogecoin2 Core Devs
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
+//Do not alter these values unless lead creator -
 
 #ifndef BITCOIN_AMOUNT_H
 #define BITCOIN_AMOUNT_H
