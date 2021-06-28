@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2015 The Bitcoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
-
+// QTM input by Doge2Devs
 // Stake cache by Qtum
 // Copyright (c) 2016-2018 The Qtum developers
 
