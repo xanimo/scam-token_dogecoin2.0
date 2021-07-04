@@ -63,7 +63,7 @@ approximately 100,000,000 coins in circulation forever. No more coins will be ma
 
 ### Such mining information ⛏
 
-Dogecoin 2.0 uses a both POS+POW scrypt algorythim 
+Dogecoin 2.0 uses a POS scrypt algorythim 
 
 
 **The current block reward schedule:**
