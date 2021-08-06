@@ -19,7 +19,7 @@ bug fixes are ready.
 
 ## Dogecoin 2.0 white paper
 
-[White Paper](https://secureservercdn.net/192.169.223.13/508.3aa.myftpupload.com/wp-content/uploads/2021/05/Whitepater-of-Dogecoin-2_0.pdf)
+[White Paper](https://www.dogecoin2.org/whitepaper/)
 
 ### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
