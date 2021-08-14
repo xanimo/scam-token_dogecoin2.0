@@ -19,3 +19,10 @@ depending on the speed of your computer and network connection, the synchronizat
 process can take anywhere from a few hours to a day or more.
 
 See the Dogecoin2 website at https://dogecoin2.org for more help and information.
+
+
+Inclusion of POS
+-----
+Proof of stake is integrated with qt client.
+
+Improved correlation with error reporting with RPC console. <-- *Changes to src/wallet for future builds*
